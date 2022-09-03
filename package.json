@@ -1,9 +1,0 @@
-{
-  "name": "firstdrmapp",
-  "description": "Test App",
-  "version": "1.0.0",
-  "homepage": "https://firstdrmapp.herokuapp.com/",
-  "engines": {
-    "node": "16.17.0"
-    }
-}
